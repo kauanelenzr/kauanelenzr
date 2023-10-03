@@ -2,7 +2,7 @@
 
 <img src="https://media.tenor.com/Bv7j0xtaH70AAAAi/cute-cat.gif" width="200px" align="right" >
   <p align="left">
-Aspirante a desenvolvedora full-stack que está atualmente aprofundando seus conhecimentos em desenvolvimento backend.
+Desenvolvedora full-stack que está atualmente aprofundando seus conhecimentos em desenvolvimento backend.
   </p>
   
   <p> </p>
