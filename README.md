@@ -1,9 +1,12 @@
-# Olá, eu sou a Kauane! 👩🏻‍💻
+# Olá, eu sou a Kauane! 
 
-<img src="https://media.tenor.com/AuQn89Yw4m0AAAAC/chopper-chopper-one-piece.gif" width="200px" align="right" >
+<img src="https://media.tenor.com/qhcRVSoKQ-YAAAAi/totoro-discord.gif" width="500px" align="top" >
   <p align="left">
 Aspirante a desenvolvedora full-stack que está atualmente aprofundando seus conhecimentos em desenvolvimento backend.
   </p>
+  
+  <p> </p>
+  
 <h3>Tecnologias</h3>
 
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
