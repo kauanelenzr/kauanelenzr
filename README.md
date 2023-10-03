@@ -1,12 +1,11 @@
 # Olá, eu sou a Kauane! 
 
-<img src="https://media.tenor.com/Bv7j0xtaH70AAAAi/cute-cat.gif" width="200px" align="right" >
+<img src="https://media.tenor.com/Zt4LPMD943EAAAAC/wave-hello.gif" width="300px" align="right" >
   <p align="left">
 Desenvolvedora full-stack que está atualmente aprofundando seus conhecimentos em desenvolvimento backend.
   </p>
   
-  <p> </p>
-  
+---------------
 <h3>Tecnologias</h3>
 
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
